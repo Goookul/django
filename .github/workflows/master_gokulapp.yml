@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gokulapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12EA563317F94426B63A903DA37D6A49 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF752A62DDC84DD581BB29268F97C0E2 }}
